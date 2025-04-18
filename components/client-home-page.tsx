@@ -5,10 +5,9 @@ import { ThemeToggle } from "@/components/theme-toggle"
 import { CopyButton } from "@/components/copy-button"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { Github } from "lucide-react"
+import { Github, Globe } from "lucide-react"
 import { DeployButton } from "@/components/deploy-button"
 import { useState, useEffect } from "react"
-import { Globe } from "lucide-react"
 
 // 定义语言类型和翻译
 type Language = "zh" | "en"

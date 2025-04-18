@@ -171,6 +171,3 @@ If caching isn't working:
 ## License
 
 MIT
-\`\`\`
-
-最后，让我确保我们的客户端主页组件正确实现了所有功能：
